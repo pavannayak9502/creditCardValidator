@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/creditCardValidator/static/css/main.5c8d91d0.css",
+    "main.js": "/creditCardValidator/static/js/main.4074a541.js",
+    "static/js/453.507215b5.chunk.js": "/creditCardValidator/static/js/453.507215b5.chunk.js",
+    "static/media/cardWallper.gif": "/creditCardValidator/static/media/cardWallper.6f609b90300ce93256a4.gif",
+    "static/media/cardParticles.gif": "/creditCardValidator/static/media/cardParticles.d12042cf18175d02c91c.gif",
+    "index.html": "/creditCardValidator/index.html",
+    "main.5c8d91d0.css.map": "/creditCardValidator/static/css/main.5c8d91d0.css.map",
+    "main.4074a541.js.map": "/creditCardValidator/static/js/main.4074a541.js.map",
+    "453.507215b5.chunk.js.map": "/creditCardValidator/static/js/453.507215b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c8d91d0.css",
+    "static/js/main.4074a541.js"
+  ]
+}
